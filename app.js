@@ -9,6 +9,7 @@ let wrap=document.querySelector("#wrapper");
 console.log(wrap);
 let destinacije = document.querySelectorAll(".naziv");
 console.log(destinacije);
+console.log("ofmMaster69");
 
 console.log("Parent mod liste destinacije je: ", listaDestinacija.parentNode); 
 //console.log("Child nodes liste destinacije su: ", listaDestinacija.childNodes);
